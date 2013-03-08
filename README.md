@@ -3,4 +3,4 @@ allwedo
 
 allwedo.is
 
-blam
+blams.ki
